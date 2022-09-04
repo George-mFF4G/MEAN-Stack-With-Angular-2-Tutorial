@@ -24,6 +24,8 @@
   },
   "homepage": "https://github.com/George-mFF4G/MEAN-Stack-With-Angular-2-Tutorial#readme",
   "dependencies": {
+    "bcrypt-nodejs": "^0.0.3",
+    "body-parser": "^1.20.0",
     "express": "^4.18.1",
     "mongoose": "^6.5.4"
   }
